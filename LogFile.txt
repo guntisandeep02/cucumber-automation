@@ -1,0 +1,50 @@
+25 Apr 2022 09:47:23  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 09:47:24  INFO logger - Input entered successfully..
+25 Apr 2022 09:47:38  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 09:47:38  INFO logger - Input entered successfully..
+25 Apr 2022 09:47:40  INFO logger - Clicked on first result set from Search Successfully
+25 Apr 2022 09:47:59  INFO logger - Clicked on application link Successfully
+25 Apr 2022 09:47:59  INFO logger - Logo present in the application
+25 Apr 2022 09:47:59  INFO logger - Clicked on application link Successfully
+25 Apr 2022 11:39:14  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 11:39:14  INFO logger - Input entered successfully..
+25 Apr 2022 11:39:31  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 11:39:31  INFO logger - Input entered successfully..
+25 Apr 2022 11:39:33  INFO logger - Clicked on first result set from Search Successfully
+25 Apr 2022 11:40:11  INFO logger - Clicked on application link Successfully
+25 Apr 2022 11:40:11  INFO logger - Logo present in the application
+25 Apr 2022 11:40:11  INFO logger - Clicked on application link Successfully
+25 Apr 2022 11:57:56  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 11:57:57  INFO logger - Input entered successfully..
+25 Apr 2022 11:58:36  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 11:58:36  INFO logger - Input entered successfully..
+25 Apr 2022 11:58:39  INFO logger - Clicked on first result set from Search Successfully
+25 Apr 2022 11:58:48  INFO logger - Clicked on application link Successfully
+25 Apr 2022 11:58:48  INFO logger - Logo present in the application
+25 Apr 2022 15:49:34  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 15:49:35  INFO logger - Input entered successfully..
+25 Apr 2022 15:49:47  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 15:49:47  INFO logger - Input entered successfully..
+25 Apr 2022 15:49:49  INFO logger - Clicked on first result set from Search Successfully
+25 Apr 2022 15:49:57  INFO logger - Clicked on application link Successfully
+25 Apr 2022 15:49:57  INFO logger - Logo present in the application
+25 Apr 2022 15:52:46  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 15:52:46  INFO logger - Input entered successfully..
+25 Apr 2022 15:52:49  INFO logger - Clicked on first result set from Search Successfully
+25 Apr 2022 15:52:58  INFO logger - Clicked on application link Successfully
+25 Apr 2022 15:52:58  INFO logger - Logo present in the application
+25 Apr 2022 15:54:45  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 15:54:46  INFO logger - Input entered successfully..
+25 Apr 2022 15:54:48  INFO logger - Clicked on first result set from Search Successfully
+25 Apr 2022 15:54:59  INFO logger - Clicked on application link Successfully
+25 Apr 2022 15:54:59  INFO logger - Logo present in the application
+25 Apr 2022 16:12:28  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 16:12:29  INFO logger - Input entered successfully..
+25 Apr 2022 16:12:31  INFO logger - Clicked on first result set from Search Successfully
+25 Apr 2022 16:12:39  INFO logger - Clicked on application link Successfully
+25 Apr 2022 16:12:39  INFO logger - Logo present in the application
+25 Apr 2022 16:14:59  INFO logger - Google Homepage navigation Successful
+25 Apr 2022 16:15:00  INFO logger - Input entered successfully..
+25 Apr 2022 16:15:02  INFO logger - Clicked on first result set from Search Successfully
+25 Apr 2022 16:15:09  INFO logger - Clicked on application link Successfully
+25 Apr 2022 16:15:09  INFO logger - Logo present in the application

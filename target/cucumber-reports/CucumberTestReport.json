@@ -1,0 +1,129 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-04-25T10:44:44.921Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14609000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Verify page is navigated to Welcome page of J.P.Morgan and Logo is available",
+        "description": "",
+        "id": "search-logo-tests;verify-page-is-navigated-to-welcome-page-of-j.p.morgan-and-logo-is-available;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1390000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 175000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Google Search page is displayed",
+            "match": {
+              "location": "stepDefinitions.GoogleSearchSteps.googleSearchPageIsDisplayed()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 374000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Input data with \"J. P. Morgan\" in search bar",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"J. P. Morgan\"",
+                  "offset": 16
+                }
+              ],
+              "location": "stepDefinitions.GoogleSearchSteps.inputDataSearch(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2184000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Click on first result from the result set list",
+            "match": {
+              "location": "stepDefinitions.GoogleSearchSteps.clickOnFirstResultFromResultList()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6864000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Click on first link from results page",
+            "match": {
+              "location": "stepDefinitions.GoogleSearchSteps.clickOnFirstResultLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Verify the page is navigated to application welcome page",
+            "match": {
+              "location": "stepDefinitions.GoogleSearchSteps.verifyPageNavigation()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 79000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Verify the Logo in Welcome page of J.P.Morgan",
+            "match": {
+              "location": "stepDefinitions.GoogleSearchSteps.verifyLogo()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test2"
+          }
+        ]
+      }
+    ],
+    "name": "Search Logo tests",
+    "description": "  As a customer, I want to search and the logo of J.P. Morgan from application welcome page",
+    "id": "search-logo-tests",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/GoogleSearch.feature",
+    "tags": []
+  }
+]
